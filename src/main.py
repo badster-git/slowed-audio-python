@@ -1,9 +1,6 @@
 from pydub import AudioSegment
 import os
 import sys
-import time
-import json
-import argparse
 
 POSSIBLE_FORMATS = {1: '.mp3', 2: '.wav'}
 
